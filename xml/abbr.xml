@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?><!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+  <source>PubMed</source>
+  <date>20120606</date>
+  <key>abbreviation.key</key>
+  <document>
+    <id>21951408</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>114</offset>
+      <text></text>
+    </passage>
+  </document>
+  <document>
+    <id>21488974</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>105</offset>
+      <text></text>
+      <annotation id="LF0">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="105" length="25"/>
+        <text>Human neutrophil elastase</text>
+      </annotation>
+      <annotation id="SF0">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="132" length="3"/>
+        <text>HNE</text>
+      </annotation>
+      <annotation id="LF1">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="141" length="11"/>
+        <text>cathepsin G</text>
+      </annotation>
+      <annotation id="SF1">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="154" length="4"/>
+        <text>CatG</text>
+      </annotation>
+      <relation id="R0">
+        <infon key="type">ABBR</infon>
+        <node refid="LF0" role="LongForm"/>
+        <node refid="SF0" role="ShortForm"/>
+      </relation>
+      <relation id="R1">
+        <infon key="type">ABBR</infon>
+        <node refid="LF1" role="LongForm"/>
+        <node refid="SF1" role="ShortForm"/>
+      </relation>
+    </passage>
+  </document>
+  <document>
+    <id>21660417</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+  </document>
+  <document>
+    <id>21831032</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>68</offset>
+      <text></text>
+    </passage>
+  </document>
+  <document>
+    <id>21571957</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>160</offset>
+      <text></text>
+      <annotation id="LF2">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="246" length="34"/>
+        <text>fluorescence in situ hybridization</text>
+      </annotation>
+      <annotation id="SF2">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="282" length="4"/>
+        <text>FISH</text>
+      </annotation>
+      <relation id="R2">
+        <infon key="type">ABBR</infon>
+        <node refid="LF2" role="LongForm"/>
+        <node refid="SF2" role="ShortForm"/>
+      </relation>
+    </passage>
+  </document>
+  <document>
+    <id>21216802</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>87</offset>
+      <text></text>
+      <annotation id="LF3">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="144" length="22"/>
+        <text>instrumental variables</text>
+      </annotation>
+      <annotation id="SF3">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="168" length="3"/>
+        <text>IVs</text>
+      </annotation>
+      <relation id="R3">
+        <infon key="type">ABBR</infon>
+        <node refid="LF3" role="LongForm"/>
+        <node refid="SF3" role="ShortForm"/>
+      </relation>
+    </passage>
+  </document>
+  <document>
+    <id>21893921</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>82</offset>
+      <text></text>
+    </passage>
+  </document>
+  <document>
+    <id>21176341</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>62</offset>
+      <text></text>
+      <annotation id="LF4">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="533" length="14"/>
+        <text>acute leukemia</text>
+      </annotation>
+      <annotation id="SF4">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="549" length="2"/>
+        <text>AL</text>
+      </annotation>
+      <annotation id="LF5">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="706" length="22"/>
+        <text>acute myeloid leukemia</text>
+      </annotation>
+      <annotation id="SF5">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="730" length="3"/>
+        <text>AML</text>
+      </annotation>
+      <annotation id="LF6">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="981" length="28"/>
+        <text>acute promyelocytic leukemia</text>
+      </annotation>
+      <annotation id="SF6">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="1011" length="3"/>
+        <text>APL</text>
+      </annotation>
+      <annotation id="LF7">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="1149" length="23"/>
+        <text>acute lymphoid leukemia</text>
+      </annotation>
+      <annotation id="SF7">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="1174" length="3"/>
+        <text>ALL</text>
+      </annotation>
+      <annotation id="LF8">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">LongForm</infon>
+        <location offset="1183" length="24"/>
+        <text>chronic myeloid leukemia</text>
+      </annotation>
+      <annotation id="SF8">
+        <infon key="type">ABBR</infon>
+        <infon key="ABBR">ShortForm</infon>
+        <location offset="1209" length="3"/>
+        <text>CML</text>
+      </annotation>
+      <relation id="R4">
+        <infon key="type">ABBR</infon>
+        <node refid="LF4" role="LongForm"/>
+        <node refid="SF4" role="ShortForm"/>
+      </relation>
+      <relation id="R5">
+        <infon key="type">ABBR</infon>
+        <node refid="LF5" role="LongForm"/>
+        <node refid="SF5" role="ShortForm"/>
+      </relation>
+      <relation id="R6">
+        <infon key="type">ABBR</infon>
+        <node refid="LF6" role="LongForm"/>
+        <node refid="SF6" role="ShortForm"/>
+      </relation>
+      <relation id="R7">
+        <infon key="type">ABBR</infon>
+        <node refid="LF7" role="LongForm"/>
+        <node refid="SF7" role="ShortForm"/>
+      </relation>
+      <relation id="R8">
+        <infon key="type">ABBR</infon>
+        <node refid="LF8" role="LongForm"/>
+        <node refid="SF8" role="ShortForm"/>
+      </relation>
+    </passage>
+  </document>
+  <document>
+    <id>21978046</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>143</offset>
+      <text></text>
+    </passage>
+  </document>
+  <document>
+    <id>21785578</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text></text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>69</offset>
+      <text></text>
+    </passage>
+  </document>
+</collection>

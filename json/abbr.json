@@ -1,0 +1,672 @@
+{
+  "date": "20120606", 
+  "source": "PubMed", 
+  "infons": {}, 
+  "documents": [
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 114, 
+          "relations": [], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }
+      ], 
+      "infons": {}, 
+      "id": "21951408", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 105, 
+          "relations": [
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF0"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF0"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R0"
+            }, 
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF1"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF1"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R1"
+            }
+          ], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": [
+            {
+              "text": "Human neutrophil elastase", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF0", 
+              "locations": [
+                {
+                  "length": 25, 
+                  "offset": 105
+                }
+              ]
+            }, 
+            {
+              "text": "HNE", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF0", 
+              "locations": [
+                {
+                  "length": 3, 
+                  "offset": 132
+                }
+              ]
+            }, 
+            {
+              "text": "cathepsin G", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF1", 
+              "locations": [
+                {
+                  "length": 11, 
+                  "offset": 141
+                }
+              ]
+            }, 
+            {
+              "text": "CatG", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF1", 
+              "locations": [
+                {
+                  "length": 4, 
+                  "offset": 154
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "infons": {}, 
+      "id": "21488974", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }
+      ], 
+      "infons": {}, 
+      "id": "21660417", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 68, 
+          "relations": [], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }
+      ], 
+      "infons": {}, 
+      "id": "21831032", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 160, 
+          "relations": [
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF2"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF2"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R2"
+            }
+          ], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": [
+            {
+              "text": "fluorescence in situ hybridization", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF2", 
+              "locations": [
+                {
+                  "length": 34, 
+                  "offset": 246
+                }
+              ]
+            }, 
+            {
+              "text": "FISH", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF2", 
+              "locations": [
+                {
+                  "length": 4, 
+                  "offset": 282
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "infons": {}, 
+      "id": "21571957", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 87, 
+          "relations": [
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF3"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF3"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R3"
+            }
+          ], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": [
+            {
+              "text": "instrumental variables", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF3", 
+              "locations": [
+                {
+                  "length": 22, 
+                  "offset": 144
+                }
+              ]
+            }, 
+            {
+              "text": "IVs", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF3", 
+              "locations": [
+                {
+                  "length": 3, 
+                  "offset": 168
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "infons": {}, 
+      "id": "21216802", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 82, 
+          "relations": [], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }
+      ], 
+      "infons": {}, 
+      "id": "21893921", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 62, 
+          "relations": [
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF4"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF4"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R4"
+            }, 
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF5"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF5"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R5"
+            }, 
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF6"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF6"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R6"
+            }, 
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF7"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF7"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R7"
+            }, 
+            {
+              "nodes": [
+                {
+                  "role": "LongForm", 
+                  "refid": "LF8"
+                }, 
+                {
+                  "role": "ShortForm", 
+                  "refid": "SF8"
+                }
+              ], 
+              "infons": {
+                "type": "ABBR"
+              }, 
+              "id": "R8"
+            }
+          ], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": [
+            {
+              "text": "acute leukemia", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF4", 
+              "locations": [
+                {
+                  "length": 14, 
+                  "offset": 533
+                }
+              ]
+            }, 
+            {
+              "text": "AL", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF4", 
+              "locations": [
+                {
+                  "length": 2, 
+                  "offset": 549
+                }
+              ]
+            }, 
+            {
+              "text": "acute myeloid leukemia", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF5", 
+              "locations": [
+                {
+                  "length": 22, 
+                  "offset": 706
+                }
+              ]
+            }, 
+            {
+              "text": "AML", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF5", 
+              "locations": [
+                {
+                  "length": 3, 
+                  "offset": 730
+                }
+              ]
+            }, 
+            {
+              "text": "acute promyelocytic leukemia", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF6", 
+              "locations": [
+                {
+                  "length": 28, 
+                  "offset": 981
+                }
+              ]
+            }, 
+            {
+              "text": "APL", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF6", 
+              "locations": [
+                {
+                  "length": 3, 
+                  "offset": 1011
+                }
+              ]
+            }, 
+            {
+              "text": "acute lymphoid leukemia", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF7", 
+              "locations": [
+                {
+                  "length": 23, 
+                  "offset": 1149
+                }
+              ]
+            }, 
+            {
+              "text": "ALL", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF7", 
+              "locations": [
+                {
+                  "length": 3, 
+                  "offset": 1174
+                }
+              ]
+            }, 
+            {
+              "text": "chronic myeloid leukemia", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "LongForm"
+              }, 
+              "id": "LF8", 
+              "locations": [
+                {
+                  "length": 24, 
+                  "offset": 1183
+                }
+              ]
+            }, 
+            {
+              "text": "CML", 
+              "infons": {
+                "type": "ABBR", 
+                "ABBR": "ShortForm"
+              }, 
+              "id": "SF8", 
+              "locations": [
+                {
+                  "length": 3, 
+                  "offset": 1209
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "infons": {}, 
+      "id": "21176341", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 143, 
+          "relations": [], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }
+      ], 
+      "infons": {}, 
+      "id": "21978046", 
+      "relations": []
+    }, 
+    {
+      "passages": [
+        {
+          "text": "", 
+          "offset": 0, 
+          "relations": [], 
+          "infons": {
+            "type": "title"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }, 
+        {
+          "text": "", 
+          "offset": 69, 
+          "relations": [], 
+          "infons": {
+            "type": "abstract"
+          }, 
+          "sentences": [], 
+          "annotations": []
+        }
+      ], 
+      "infons": {}, 
+      "id": "21785578", 
+      "relations": []
+    }
+  ], 
+  "key": "abbreviation.key"
+}
