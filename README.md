@@ -6,7 +6,7 @@ annotations. More information is available at
 [http://bioc.sourceforge.net](http://bioc.sourceforge.net).
 
 When it was first implemented, XML was used for serialization. Now a
-lot of data exchange occurs in JSON.  the BioC data structures have
+lot of data exchange occurs in JSON.  The BioC data structures have
 now been implemented in JSON. The JSON structure is as similar to the
 original data structures as is realistic.
 
